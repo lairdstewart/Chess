@@ -1,0 +1,2 @@
+chess = Chess()
+chess.game()
